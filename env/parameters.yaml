@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jx-rocks/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: anis.tajouri@gmail.com
+  token: local:jx-rocks/pipelineUser:token
+  username: anistajouri
+prow:
+  hmacToken: local:jx-rocks/prow:hmacToken
